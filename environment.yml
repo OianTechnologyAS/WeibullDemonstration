@@ -1,0 +1,21 @@
+name: py38_binder
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas
+  - numpy
+  - bokeh
+  - holoviews
+  - voila
+  - notebook
+  - ipywidgets
+  - jupyter_bokeh
+  - hvplot
+  - scipy
+  - jupyter
+  - panel
+  - widgetsnbextension
+  - jupyter_contrib_nbextensions
+  - pygments
+prefix: C:\Users\erlend\anaconda3\envs\py38_binder

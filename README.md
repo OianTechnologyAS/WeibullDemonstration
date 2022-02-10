@@ -1,1 +1,3 @@
 # WeibullDemonstration
+
+© ResBridge AS
